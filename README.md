@@ -209,27 +209,6 @@ Obtain a token by sending a POST request to `/api/auth/login`:
 }
 ```
 
----
-
-## 🗺️ Roadmap
-
-- [x] JWT Authentication & Spring Security
-- [x] Projects API with detail page support
-- [x] Blog API with YouTube embed support
-- [x] Dynamic site content management
-- [x] Contact info API
-- [x] Freelance services API
-- [x] Client testimonials API
-- [x] Work process steps API
-- [x] Educational playlists API
-- [ ] React frontend (in progress)
-- [ ] Admin panel
-- [ ] Image upload
-- [ ] TR/EN multilingual support
-- [ ] Deploy to own server
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
